@@ -1,4 +1,4 @@
 # hello-world
 github tutorial 
-started github today while learning the web development coursera course
+started github today while learning the web development course
 (HTML5, CSS3, Java Script)
